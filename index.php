@@ -1,1 +1,1 @@
-<?php include_once("albinotonnina.com-master/src/index.html"); ?>
+<?php include_once("index.html"); ?>
